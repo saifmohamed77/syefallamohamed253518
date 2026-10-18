@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 1dcd37622e50875419ce9a5ae028c002
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trees and green objects_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b9cb3a92bc7464db2bffde26dd7397
+      internalID: 49555209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and green objects_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6ae6f0869b85a48ab2df47e6dd2585
+      internalID: -792666831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and green objects_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 136
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf9cd36d77470a4f8046c02c5cda76b
+      internalID: 1018579367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and green objects_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc5d3541ed6ea4da15e261eaf9a6a0
+      internalID: -77173524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and green objects_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd6a39561c0d24a888a285156d3820
+      internalID: -1298660868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -126, y: -31}
+      - {x: -130, y: -39}
+      - {x: -130, y: -70}
+      - {x: -126, y: -74}
+      - {x: -81, y: -74}
+      - {x: -78, y: -72}
+      - {x: -78, y: -37}
+      - {x: -81, y: -31}
+    - - {x: 94, y: 44}
+      - {x: 90, y: 42}
+      - {x: 77, y: 32}
+      - {x: 55, y: 32}
+      - {x: 13, y: 28}
+      - {x: 13, y: -56}
+      - {x: 26, y: -74}
+      - {x: 122, y: -74}
+      - {x: 140, y: -17}
+      - {x: 140, y: 36}
+      - {x: 115, y: 44}
+    - - {x: 39, y: -36}
+      - {x: 40, y: -36}
+      - {x: 39, y: -39}
+    - - {x: 53, y: -26}
+      - {x: 54, y: -23}
+      - {x: 53, y: -27}
+      - {x: 54, y: -27}
+    - - {x: 87, y: -23}
+      - {x: 89, y: -20}
+      - {x: 89, y: -16}
+      - {x: 92, y: -13}
+      - {x: 91, y: -13}
+      - {x: 94, y: -16}
+      - {x: 95, y: -16}
+      - {x: 98, y: -13}
+      - {x: 97, y: -13}
+      - {x: 96, y: -14}
+      - {x: 92, y: -19}
+      - {x: 92, y: -20}
+      - {x: 86, y: -26}
+      - {x: 87, y: -26}
+    - - {x: 122, y: -17}
+      - {x: 121, y: -17}
+      - {x: 121, y: -21}
+      - {x: 122, y: -21}
+    - - {x: 74, y: -18}
+      - {x: 75, y: -17}
+      - {x: 72, y: -17}
+      - {x: 72, y: -18}
+    - - {x: -132, y: 66}
+      - {x: -137, y: 65}
+      - {x: -137, y: 18}
+      - {x: -116, y: -14}
+      - {x: -83, y: -14}
+      - {x: -57, y: -9}
+      - {x: -35, y: 39}
+      - {x: -35, y: 63}
+      - {x: -37, y: 66}
+    - - {x: -21, y: 82}
+      - {x: -25, y: 78}
+      - {x: -25, y: 64}
+      - {x: -23, y: 50}
+      - {x: -18, y: 46}
+      - {x: -7, y: 46}
+      - {x: 1, y: 47}
+      - {x: 11, y: 57}
+      - {x: 11, y: 75}
+      - {x: 8, y: 82}
+    - - {x: 39, y: 82}
+      - {x: 39, y: 52}
+      - {x: 42, y: 46}
+      - {x: 80, y: 46}
+      - {x: 91, y: 49}
+      - {x: 91, y: 77}
+      - {x: 89, y: 82}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trees and green objects_0: 49555209
+      trees and green objects_4: -1298660868
+      trees and green objects_2: 1018579367
+      trees and green objects_1: -792666831
+      trees and green objects_3: -77173524
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
