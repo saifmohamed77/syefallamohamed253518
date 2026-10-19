@@ -48,18 +48,21 @@ public class PlayerController : MonoBehaviour
 
 
         }
-void Jump()
-    {
-        GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
-    }
-
+        
 anim.SetFloat("speed",Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
          anim.SetFloat("Height", (GetComponent<Rigidbody2D>().velocity.y));
          anim.SetBool("grounded", isGrounded);
+
+
 
     }
     void FixedUpdate()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, WhatIsGround);
+    }
+
+    void Jump()
+    {
+        GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
     }
 }
